@@ -1,0 +1,7 @@
+farina,scaffale2
+uova,scaffale1
+latte,scaffale2
+acqua,scaffale3
+coca-cola,scaffale5
+pesce,surgelati
+broccoli,reparto-verdura

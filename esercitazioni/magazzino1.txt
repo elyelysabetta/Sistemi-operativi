@@ -1,0 +1,5 @@
+farina,scaffale2
+uova,scaffale1
+latte,scaffale2
+acqua,scaffale3
+farina,scaffale5

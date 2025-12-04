@@ -1,0 +1,7 @@
+1234,anlisi2,6,18
+5678,fisica2,6,30L
+1234,moduloB,8,20
+1234,moduloA,15,25
+1234,analisi1,6,20
+5678,analisi1,6,30L
+1011,fisica2,6,30
