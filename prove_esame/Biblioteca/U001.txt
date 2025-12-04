@@ -1,0 +1,6 @@
+20250301, NON RESTITUITO ,Il nome della rosa,Umberto Eco,Storico
+20250215,20250301,1984,George Orwell,Distopico
+20250410, NON RESTITUITO ,La coscienza di Zeno,Italo Svevo,Narrativa
+20250105,20250120,Harry Potter e la pietra filosofale,J.K. Rowling,Fantasy
+20250320, NON RESTITUITO ,Uno nessuno e centomila,Luigi Pirandello,Narrativa
+20250228,20250310,Il Gattopardo,Giuseppe Tomasi di Lampedusa,Storico

@@ -1,0 +1,10 @@
+50 euro,gas,enel,da pagare
+60 euro,acqua,hera,pagato
+10 euro,gas,hera,da pagare
+150 euro,luce,enel,da pagare
+50 euro,acqua,ecla,da pagare
+90 euro,luce,enel,pagato
+15 euro,gas,ASM,da pagare
+500 euro,gas,enel,da pagare
+12 euro,gas,enel,da pagare
+158 euro,luce,enel,da pagare

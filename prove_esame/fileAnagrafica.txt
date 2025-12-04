@@ -1,0 +1,7 @@
+Rossi,Giuseppe,0425,3032487,Rossi&company, via Dante
+Bianchi,Alberto,0433,781058, BianchiSRL, via Pezzuoli
+Gazzuola,Fernando, 0425,1458268,GazzoSnc, via Filippo||
+Rossi,Simone,0425,148526,Rossi&associati, via Brombeis
+Rossi,Andrea,0528,85698,Rossi&basta, via Roma
+Rossi,Alberto,0433,148526,Rossi&associati, via Brombeis
+Rossi,Alberto,0425,3032487,Rossi&company, via Dante

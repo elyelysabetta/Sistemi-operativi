@@ -1,0 +1,4 @@
+120,08:15,ViaRoma,scorrevole
+250,09:30,ViaRoma,congestionato
+100,10:45,ViaRoma,bloccato
+180,11:00,CorsoItalia,scorrevole
